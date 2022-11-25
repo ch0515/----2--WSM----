@@ -40,8 +40,11 @@ button{
     font-size: 30px;
 }
 @media (max-width: 800px) {
-    .Introduction1, p, .img1, button{
-        margin-left: 5px;
+    .introgroup{
+        margin-left: 10px;
+    }
+    .title{
+        margin-left: 10px;
     }
     header{
         width: 1000%;
