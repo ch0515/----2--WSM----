@@ -1,21 +1,33 @@
 body{
     background-color: #A9AF7E;
     font-family: 'Hahmlet', serif;
-    padding: 0;
-    margin: 0;
+    
 }
-header{
-    margin-top: -20px;
-    width: 100%;
-    height: 50px;
-    color: #557153;
+.container {
+    margin-left: 0.875rem;
+    margin-right: 0.875rem;
+}
+header {
+    position: fixed;
     background: white;
+    color: #557153;
     text-align: center;
     align-items: center;
-    font-size: 15px;
+    font-size: 20px;
+    left: 0;
+    right: 0;
+    top: 0;
+}
+nav {
+    height: 50px;
+}
+.title{
+    margin-top: 0px;
+}
+.introgroup{
+    margin-top: 30px;
 }
 .Introduction1{
-    
     color: whitesmoke;
     margin-left: 200px;
     margin-top: 70px;
@@ -43,11 +55,7 @@ button{
     .introgroup{
         margin-left: 10px;
     }
-    .title{
-        margin-left: 10px;
-    }
     header{
-        width: 100%;
         text-align: left;
     }
     .Introduction1{
@@ -59,6 +67,8 @@ button{
         float: left;
     }
     .img1{
+        width: 200px;
+        height: 284px;
         margin-top: 5px;
         float: left;
     }
