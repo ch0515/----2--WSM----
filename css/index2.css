@@ -30,24 +30,7 @@ header{
     background-color: whitesmoke;
     margin-right: 10px;
     margin-bottom: 10px;
-}
-.img{
-  margin-left: 15px;
-  margin-top: 5px;
-}
-.market, .Product_name, .price{
-  margin-left: 5px;
-}
-.products img{
-    width: 240px;
-    height: 250px;
-    margin-right: 20px;
-    
-    /* margin-bottom: 20px; */
-}
-.market{
-    color: #888888;
-    font-size: 14px;
+    margin-top: 10px;
 }
   .products a{
     text-decoration: none;
@@ -55,12 +38,6 @@ header{
     float: left;
     font-size: 17px;
   }
-  
-  .price{
-    margin-top: 4px;
-    margin-bottom: 80px;
-  }
-  
   .clearfix{
     clear: both;
   }
@@ -71,9 +48,6 @@ header{
     }
     .title, .products{
       margin-left: 10px;
-    }
-    .menu{
-      margin-right: 10px;
     }
     .products {
       margin-left: 50px;
