@@ -13,13 +13,15 @@ header{
     text-align: center;
     align-items: center;
     font-size: 15px;
+
 }
 .menu{
-    font-size: 30px;
+    font-size: 20px;
     float: right;
     color: #557153;
-    margin-top: -63px;
+    margin-top: -58px;
     text-decoration: none;
+    padding-right: 20px;
 }
 .products {
     margin-left: 80px;
