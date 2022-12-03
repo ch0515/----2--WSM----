@@ -8,7 +8,6 @@ for(let i=0; i<17; i++){
         const obj= myJson.data[i];
         const 시설명 = obj.시설명.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',');
         const 주소 = obj.주소.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',');
-        // console.log(시설명);
         let menus1 = document.querySelectorAll(".card-menu1");
         let menus2 = document.querySelectorAll(".card-menu2")
         let first = menus1[i];
