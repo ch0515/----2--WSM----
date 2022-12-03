@@ -31,10 +31,11 @@ header{
   background-color: whitesmoke;
   margin-right: 10px;
   margin-bottom: 10px;
+  margin-top: 10px;
 }
 .img{
 margin-left: 15px;
-margin-top: 5px;
+margin-top: 10px;
 }
 .market, .Product_name, .price{
 margin-left: 5px;
