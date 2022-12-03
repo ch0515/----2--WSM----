@@ -42,43 +42,28 @@
 ***
 ## 프로젝트 기능 설명
 ### desktop
-+ main
++ 소개 페이지
 ![image](https://user-images.githubusercontent.com/99901580/205436835-39eae4a1-65bc-41a1-a63d-00291d2ae44f.png)
-![image](https://user-images.githubusercontent.com/99901580/205436858-6ed39401-1469-4567-92b6-8deb1aebc579.png)
++ 판매 목록 페이지
 ![image](https://user-images.githubusercontent.com/99901580/205436861-82c7b131-929c-49da-b75b-5021f9199f59.png)
-
->> + 왼쪽 위 버튼을 누르면 연도 선택 가능
->>> + 2000
->>> + 1960
->>> + 1900
-
->> + 오른쪽 위 버튼을 누르면 밑에 뜨는 더 알기 페이지로 넘어감
-
-+ more page
-![image](https://user-images.githubusercontent.com/99901580/176696212-09747841-1cb6-4ab7-b7c5-a28e8dc32282.png)
->> + 역사에 대해 공부하며 어려웠던 단어들을 추가적으로 공부할 수 있음
-
-+ text page
-![image](https://user-images.githubusercontent.com/99901580/176689230-f3320382-8d57-4323-be1c-4671853ba55d.png)
->> + 왼쪽 본문에 한 줄로 사건을 간결하게 정리함
->> + 오른쪽에서 관련 사건에 대한 사진을 볼 수 있음
+>> + 목록 누르면 구매 페이지로 이동 가능
++ 생산 시설 페이지
+![image](https://user-images.githubusercontent.com/99901580/205436941-aba90987-4594-468a-91e2-443a1bc66381.png)
+>> + 생산 시설 api로 불러온 생산시설 목록 조회 가능
 
 
 ### tablet
-+ main
-![image](https://user-images.githubusercontent.com/99901580/176696600-81fddf99-6757-4265-8ead-1c30281e96b7.png)
-![image](https://user-images.githubusercontent.com/99901580/176696899-c27004af-0232-40ea-86ca-1700cad06dc5.png)
-+ more
-8ead-1c30281e96b7.png)
-![image](https://user-images.githubusercontent.com/99901580/176696692-d583cfb2-6c7f-4fcb-a80a-e9feee76792a.png)
-+ text
-
++ 소개 페이지
+![image](https://user-images.githubusercontent.com/99901580/205437098-45980d88-6adc-45cc-97ff-c0d607d37b18.png)
++ 판매 목록 페이지
+![image](https://user-images.githubusercontent.com/99901580/205437093-bc34afca-2330-4291-9478-14bcc7889245.png)
++ 생산 시설 페이지
+![image](https://user-images.githubusercontent.com/99901580/205437095-309a6433-3dcd-41e6-a279-4e00b5e105b8.png)
 
 ### mobile
-+ main
-![image](https://user-images.githubusercontent.com/99901580/176697790-836a5637-52c0-458e-b7bf-c944173f96a1.png)
-![image](https://user-images.githubusercontent.com/99901580/176697407-8a3bd5cf-ed27-4e4d-b9be-1d521494416a.png)
-+ more
-![image](https://user-images.githubusercontent.com/99901580/176699496-c083a141-ae89-41d4-a525-0932313e1f30.png)
-+ text
-![image](https://user-images.githubusercontent.com/99901580/176698985-1264d2ae-f5c9-44d1-a239-6e7d687f6b14.png)
++ 소개 페이지
+![image](https://user-images.githubusercontent.com/99901580/205437223-4e87ecfd-e6fb-4ad1-a816-a3503924630b.png)
++ 판매 목록 페이지
+![image](https://user-images.githubusercontent.com/99901580/205437188-0251c4b7-5b9b-4504-88aa-17646aacdabc.png)
++ 생산 시설 페이지
+![image](https://user-images.githubusercontent.com/99901580/205437190-6eae607d-9304-412b-bc4e-a8e92bee66a0.png)
